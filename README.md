@@ -8,4 +8,4 @@
 
 ## Image attachment example
 
-![Placeholder Image](/placeholder.png)
+![Placeholder Image](/history_screenshot.png)
